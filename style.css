@@ -1,6 +1,6 @@
 *
 {
-    font-family: "Helvetica",  "Arial Narrow Bold", sans-serif;
+    font-family: "Helvetica",  "Arial Narrow Bold", sans-serif;pwd
 }
 
 h1, h2, h3, h4, h5, h6
@@ -16,5 +16,16 @@ h1
 img
 {
     width: 500px;
-    height:auto;
+    height: auto;
+}
+
+li
+{
+    padding: 10px;
+    margin: 10px;
+}
+.home
+{
+    text-align: center;
+    margin: 10px 0 auto;
 }
